@@ -1,0 +1,22 @@
+{
+  "nodeCode": "TCSR-ROSWELLRN-EMERGENCYT-T3-P05-N02-LOCAL",
+  "buildHash": "6e4c10d112047da5d03e0a4dd8f15e3494d2e49172480f0df37481bd93b0a7c8",
+  "errors": 0,
+  "findings": [
+    {
+      "campaignId": "44038b4b-52b6-4c89-a574-d96e39205758",
+      "buildId": null,
+      "gate": "content",
+      "severity": "warning",
+      "code": "CONTENT_CLAIM_CURRENCY_UNSOURCED_DETAIL",
+      "message": "TCSR-ROSWELLRN-EMERGENCYT-T3-P05-N02-LOCAL contains a monetary figure; confirm the cited source supports it.",
+      "nodeCode": "TCSR-ROSWELLRN-EMERGENCYT-T3-P05-N02-LOCAL",
+      "nodeId": "dbe4baed-ac70-4ac5-b8fa-2a06e6caa0d8",
+      "details": {
+        "matches": [
+          " $1,000"
+        ]
+      }
+    }
+  ]
+}
